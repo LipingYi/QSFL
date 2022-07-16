@@ -1,5 +1,5 @@
 ## QSFL: A Two-Level Uplink Communication Optimization Framework for Federated Learning
-This is an official implementation of ***QSFL: A Two-Level Uplink Communication Optimization Framework for Federated Learning*** paper. [[Link is comming soon...]]()
+This is an official implementation of ***[QSFL: A Two-Level Uplink Communication Optimization Framework for Federated Learning](https://proceedings.mlr.press/v162/yi22a.html)*** paper.
 
 ![](QSFL_pipline.png)
 
